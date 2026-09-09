@@ -1,1 +1,1 @@
-DEFAULT_PRIORITY = 'low'
+DEFAULT_PRIORITY = 'high'
